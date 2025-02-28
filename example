@@ -3,5 +3,5 @@ print("Hello, World!")
 
 # Addition
 a = 5
-b = 4
+b = 6
 print("The sum is:", a + b)
