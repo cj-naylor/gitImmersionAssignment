@@ -2,6 +2,6 @@
 print("Hello, World!")
 
 # Addition
-a = 10
+a = 1
 b = 6
 print("The sum is:", a + b)
